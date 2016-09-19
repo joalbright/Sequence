@@ -1,2 +1,2 @@
-Sequence-App
+Sequence
 ============
